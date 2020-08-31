@@ -1,16 +1,11 @@
 # skystonescouting20192020
 
-A new Flutter application.
+FIRST Tech Challenge Team Information Storage App
 
-## Getting Started
+Main Features:
+1. Access each collection through a collection name and passcode
+2. Able to add new information to display by writing to a file without having to go back and code it
+3. Stores information on each team that is submitted in Firebase's NoSQL Databse
+4. Viewable to team members that have access to the collection
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Purpose: To enhance our team's access to other team's abilities on the playing field in order to pick the most strategic partner to advance. 
