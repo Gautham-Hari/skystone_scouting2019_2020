@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026937167168",
+    "firebase_url": "https://skystonescoutingapp.firebaseio.com",
+    "project_id": "skystonescoutingapp",
+    "storage_bucket": "skystonescoutingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026937167168:android:98b64f1bb846fc8d4baea5",
+        "android_client_info": {
+          "package_name": "com.example.skystonescouting20192020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026937167168-mfahv7i6kcojpjg6ckss2sme9r9vkbgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoSBburPCGnUudjs68_ylMhWxZ1DT18l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026937167168-mfahv7i6kcojpjg6ckss2sme9r9vkbgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
